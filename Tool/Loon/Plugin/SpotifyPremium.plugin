@@ -1,5 +1,5 @@
 #!name=Spotify去广告
-#!desc=过滤Spotify播放广告，移除随机播放，恢复歌手和专辑列表的正常展示，并解锁部分Premium特权。建议重新登录并清除缓存，且音质不能设置为超高，仅建议iOS 15及以上设备使用。
+#!desc=部分解锁Premium,建议重新登录,音质不能设置为超高 过滤Spotify播放广告，移除随机播放，恢复歌手和专辑列表的正常展示。建议重新登录并清除缓存，且音质不能设置为超高，仅建议iOS 15及以上设备使用。
 #!openUrl=
 #!author=app2smile
 #!homepage=https://github.com/ajune0527/vpn_tool/tree/master/Tool/Loon/Plugin
