@@ -8,7 +8,7 @@
 ^https?:\/\/api\.zuihuimai\.com\/static\/.*\/hongbao url reject
 ^https?:\/\/dat\.ruanmei\.com\/ithome\/money\/acd\.json$ url reject
 
-^https?:\/\/(api\.ithome\.com\/json\/(((newslist|listpage)\/news)|(slide\/index)))|(napi\.ithome\.com\/api\/news\/index) url script-response-body https://raw.githubusercontent.com/ajune0527/vpn_loon/master/Resource/Script/IThome/IThome_remove_ads.js
+^https?:\/\/(api\.ithome\.com\/json\/(((newslist|listpage)\/news)|(slide\/index)))|(napi\.ithome\.com\/api\/news\/index) url script-response-body https://raw.githubusercontent.com/ajune0527/vpn_tool/master/Resource/Script/IThome/IThome_remove_ads.js
 
 #[mitm]
 hostname = api.ithome.com, napi.ithome.com, api.zuihuimai.com, dat.ruanmei.com

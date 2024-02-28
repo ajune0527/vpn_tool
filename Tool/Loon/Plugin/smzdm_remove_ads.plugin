@@ -23,21 +23,21 @@ DOMAIN, ynuf.aliapp.org, REJECT
 ^https:\/\/s3\.zdmimg\.com\/third\/index reject
 
 [Script]
-http-response ^https:\/\/app-api\.smzdm\.com\/util\/loading script-path = https://raw.githubusercontent.com/ajune0527/vpn_loon/master/Resource/Script/smzdm/smzdm_remove_ads.js, requires-body = true, tag = 移除广告
+http-response ^https:\/\/app-api\.smzdm\.com\/util\/loading script-path = https://raw.githubusercontent.com/ajune0527/vpn_tool/master/Resource/Script/smzdm/smzdm_remove_ads.js, requires-body = true, tag = 移除广告
 
-http-response ^https:\/\/haojia-api\.smzdm\.com\/home\/list script-path = https://raw.githubusercontent.com/ajune0527/vpn_loon/master/Resource/Script/smzdm/smzdm_remove_ads.js, requires-body = true, tag = 移除广告
+http-response ^https:\/\/haojia-api\.smzdm\.com\/home\/list script-path = https://raw.githubusercontent.com/ajune0527/vpn_tool/master/Resource/Script/smzdm/smzdm_remove_ads.js, requires-body = true, tag = 移除广告
 
-http-response ^https:\/\/app-api\.smzdm\.com\/util\/update script-path = https://raw.githubusercontent.com/ajune0527/vpn_loon/master/Resource/Script/smzdm/smzdm_remove_ads.js, requires-body = true, tag = 移除广告
+http-response ^https:\/\/app-api\.smzdm\.com\/util\/update script-path = https://raw.githubusercontent.com/ajune0527/vpn_tool/master/Resource/Script/smzdm/smzdm_remove_ads.js, requires-body = true, tag = 移除广告
 
-http-response ^https:\/\/homepage-api\.smzdm\.com\/v3\/home script-path = https://raw.githubusercontent.com/ajune0527/vpn_loon/master/Resource/Script/smzdm/smzdm_remove_ads.js, requires-body = true, tag = 移除广告
+http-response ^https:\/\/homepage-api\.smzdm\.com\/v3\/home script-path = https://raw.githubusercontent.com/ajune0527/vpn_tool/master/Resource/Script/smzdm/smzdm_remove_ads.js, requires-body = true, tag = 移除广告
 
-http-response ^https:\/\/user-api\.smzdm\.com\/vip script-path = https://raw.githubusercontent.com/ajune0527/vpn_loon/master/Resource/Script/smzdm/smzdm_remove_ads.js, requires-body = true, tag = 移除广告
+http-response ^https:\/\/user-api\.smzdm\.com\/vip script-path = https://raw.githubusercontent.com/ajune0527/vpn_tool/master/Resource/Script/smzdm/smzdm_remove_ads.js, requires-body = true, tag = 移除广告
 
-http-response ^https:\/\/user-api\.smzdm\.com\/vip\/bottom_card_list script-path = https://raw.githubusercontent.com/ajune0527/vpn_loon/master/Resource/Script/smzdm/smzdm_remove_ads.js, requires-body = true, tag = 移除广告
+http-response ^https:\/\/user-api\.smzdm\.com\/vip\/bottom_card_list script-path = https://raw.githubusercontent.com/ajune0527/vpn_tool/master/Resource/Script/smzdm/smzdm_remove_ads.js, requires-body = true, tag = 移除广告
 
-http-response ^https:\/\/article-api\.smzdm\.com\/publish\/get_bubble script-path = https://raw.githubusercontent.com/ajune0527/vpn_loon/master/Resource/Script/smzdm/smzdm_remove_ads.js, requires-body = true, tag = 移除广告
+http-response ^https:\/\/article-api\.smzdm\.com\/publish\/get_bubble script-path = https://raw.githubusercontent.com/ajune0527/vpn_tool/master/Resource/Script/smzdm/smzdm_remove_ads.js, requires-body = true, tag = 移除广告
 
-http-response ^https:\/\/qianbao\.smzdm\.com\/v\d\/app\/home script-path = https://raw.githubusercontent.com/ajune0527/vpn_loon/master/Resource/Script/smzdm/smzdm_remove_ads.js, requires-body = true, tag = 移除广告
+http-response ^https:\/\/qianbao\.smzdm\.com\/v\d\/app\/home script-path = https://raw.githubusercontent.com/ajune0527/vpn_tool/master/Resource/Script/smzdm/smzdm_remove_ads.js, requires-body = true, tag = 移除广告
 
 
 [Mitm]

@@ -8,7 +8,7 @@
 
 [Script]
 # 移除图片视频水印
-http-response ^https:\/\/api\.bcy\.net\/apiv2\/item\/detail\? script-path = https://raw.githubusercontent.com/ajune0527/vpn_loon/master/Resource/Script/Bcy/Bcy_remove_ads.js, requires-body = true, tag = 移除图片视频水印
+http-response ^https:\/\/api\.bcy\.net\/apiv2\/item\/detail\? script-path = https://raw.githubusercontent.com/ajune0527/vpn_tool/master/Resource/Script/Bcy/Bcy_remove_ads.js, requires-body = true, tag = 移除图片视频水印
 
 [Mitm]
 hostname = api.bcy.net

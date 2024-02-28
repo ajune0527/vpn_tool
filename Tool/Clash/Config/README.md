@@ -6,7 +6,7 @@
 
 更新日期：2023-02-13
 
-配置地址：[https://raw.githubusercontent.com/ajune0527/vpn_loon/master/Tool/Clash/Config/Clash_Sample_Configuration_By_iKeLee.yml](https://raw.githubusercontent.com/ajune0527/vpn_loon/master/Tool/Clash/Config/Clash_Sample_Configuration_By_iKeLee.yml)
+配置地址：[https://raw.githubusercontent.com/ajune0527/vpn_tool/master/Tool/Clash/Config/Clash_Sample_Configuration_By_iKeLee.yml](https://raw.githubusercontent.com/ajune0527/vpn_tool/master/Tool/Clash/Config/Clash_Sample_Configuration_By_iKeLee.yml)
 
 ### 使用说明
 
@@ -14,10 +14,10 @@
 
 策略组如图
 
-![](https://raw.githubusercontent.com/ajune0527/vpn_loon/master/Tool/Clash/Config/Resource/01.png)
+![](https://raw.githubusercontent.com/ajune0527/vpn_tool/master/Tool/Clash/Config/Resource/01.png)
 
-![](https://raw.githubusercontent.com/ajune0527/vpn_loon/master/Tool/Clash/Config/Resource/02.png)
+![](https://raw.githubusercontent.com/ajune0527/vpn_tool/master/Tool/Clash/Config/Resource/02.png)
 
-![](https://raw.githubusercontent.com/ajune0527/vpn_loon/master/Tool/Clash/Config/Resource/03.png)
+![](https://raw.githubusercontent.com/ajune0527/vpn_tool/master/Tool/Clash/Config/Resource/03.png)
 
-![](https://raw.githubusercontent.com/ajune0527/vpn_loon/master/Tool/Clash/Config/Resource/04.png)
+![](https://raw.githubusercontent.com/ajune0527/vpn_tool/master/Tool/Clash/Config/Resource/04.png)

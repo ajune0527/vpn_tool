@@ -7,9 +7,9 @@
 #!date=2024-02-19 09:43:41
 
 [Script]
-http-response ^https:\/\/jzts\.cmpassport\.com\/personalized\/getPushContent script-path = https://raw.githubusercontent.com/ajune0527/vpn_loon/master/Resource/Script/mobileClouds/mobileClouds_remove_ads.js, requires-body = true, tag = 移除开屏广告
+http-response ^https:\/\/jzts\.cmpassport\.com\/personalized\/getPushContent script-path = https://raw.githubusercontent.com/ajune0527/vpn_tool/master/Resource/Script/mobileClouds/mobileClouds_remove_ads.js, requires-body = true, tag = 移除开屏广告
 
-http-response ^https:\/\/ad\.mcloud\.139\.com\/advertapi\/adv-filter\/ script-path = https://raw.githubusercontent.com/ajune0527/vpn_loon/master/Resource/Script/mobileClouds/mobileClouds_remove_ads.js, requires-body = true, tag = 移除应用内广告
+http-response ^https:\/\/ad\.mcloud\.139\.com\/advertapi\/adv-filter\/ script-path = https://raw.githubusercontent.com/ajune0527/vpn_tool/master/Resource/Script/mobileClouds/mobileClouds_remove_ads.js, requires-body = true, tag = 移除应用内广告
 
 [Mitm]
 hostname = jzts.cmpassport.com, ad.mcloud.139.com

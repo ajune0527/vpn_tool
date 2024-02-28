@@ -10,9 +10,9 @@
 
 ### 配置地址
 
-[进阶配置](https://raw.githubusercontent.com/ajune0527/vpn_loon/master/Tool/QuantumultX/Config/Quantumult_X_Sample_Configuration_By_iKeLee.conf)
+[进阶配置](https://raw.githubusercontent.com/ajune0527/vpn_tool/master/Tool/QuantumultX/Config/Quantumult_X_Sample_Configuration_By_iKeLee.conf)
 
-[最小配置](https://raw.githubusercontent.com/ajune0527/vpn_loon/master/Tool/QuantumultX/Config/Quantumult_X_Simple_Sample_Configuration_By_iKeLee.conf)
+[最小配置](https://raw.githubusercontent.com/ajune0527/vpn_tool/master/Tool/QuantumultX/Config/Quantumult_X_Simple_Sample_Configuration_By_iKeLee.conf)
 
 ### 使用说明
 

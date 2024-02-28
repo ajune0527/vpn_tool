@@ -6,7 +6,7 @@
 
 #[rewrite_local]    
 # 移除百度搜索首页信息流
-^https?:\/\/(www|m)\.baidu\.com(/|\/\?ref.*|\/\?from.*)$ url script-response-body https://raw.githubusercontent.com/ajune0527/vpn_loon/master/Resource/Script/BaiduSearch/BaiduSearchHomePage_remove_ads.js
+^https?:\/\/(www|m)\.baidu\.com(/|\/\?ref.*|\/\?from.*)$ url script-response-body https://raw.githubusercontent.com/ajune0527/vpn_tool/master/Resource/Script/BaiduSearch/BaiduSearchHomePage_remove_ads.js
 
 ^https?:\/\/www\.baidu\.com url 302 https://m.baidu.com
 

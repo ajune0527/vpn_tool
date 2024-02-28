@@ -7,7 +7,7 @@
 #!date=2023-09-12 20:30:28
 
 [Script]
-http-response ^https?:\/\/(www|m)\.baidu\.com\/?($|\?from=\w{8,9}) script-path = https://raw.githubusercontent.com/ajune0527/vpn_loon/master/Resource/Script/BaiduSearch/BaiduSearchHomePage_remove_ads.js, requires-body = true, tag = 移除百度搜索首页信息流广告
+http-response ^https?:\/\/(www|m)\.baidu\.com\/?($|\?from=\w{8,9}) script-path = https://raw.githubusercontent.com/ajune0527/vpn_tool/master/Resource/Script/BaiduSearch/BaiduSearchHomePage_remove_ads.js, requires-body = true, tag = 移除百度搜索首页信息流广告
 
 [Mitm]
 hostname = m.baidu.com, www.baidu.com

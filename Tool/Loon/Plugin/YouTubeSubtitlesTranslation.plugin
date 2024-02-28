@@ -15,15 +15,15 @@
 
 [Script]
 # 字幕翻译
-http-response ^https?:\/\/(www|m|tv)\.youtube\.com\/youtubei\/v1\/player script-path = https://raw.githubusercontent.com/ajune0527/vpn_loon/master/Resource/Script/YouTube/YouTube_Player_response.js, requires-body = true, timeout = 30, tag = YouTube播放器响应, argument =
+http-response ^https?:\/\/(www|m|tv)\.youtube\.com\/youtubei\/v1\/player script-path = https://raw.githubusercontent.com/ajune0527/vpn_tool/master/Resource/Script/YouTube/YouTube_Player_response.js, requires-body = true, timeout = 30, tag = YouTube播放器响应, argument =
 
-http-response ^https?:\/\/youtubei\.googleapis\.com\/youtubei\/v1\/player script-path = https://raw.githubusercontent.com/ajune0527/vpn_loon/master/Resource/Script/YouTube/YouTube_Player_response.js, requires-body = true, timeout = 30, tag = YouTube播放器响应, argument =
+http-response ^https?:\/\/youtubei\.googleapis\.com\/youtubei\/v1\/player script-path = https://raw.githubusercontent.com/ajune0527/vpn_tool/master/Resource/Script/YouTube/YouTube_Player_response.js, requires-body = true, timeout = 30, tag = YouTube播放器响应, argument =
 
-http-request ^https?:\/\/(www|m)\.youtube\.com\/api\/timedtext script-path = https://raw.githubusercontent.com/ajune0527/vpn_loon/master/Resource/Script/YouTube/YouTube_TimedText_request.js, requires-body = false, tag = YouTube字幕请求, argument =
+http-request ^https?:\/\/(www|m)\.youtube\.com\/api\/timedtext script-path = https://raw.githubusercontent.com/ajune0527/vpn_tool/master/Resource/Script/YouTube/YouTube_TimedText_request.js, requires-body = false, tag = YouTube字幕请求, argument =
 
-http-response ^https?:\/\/(www|m)\.youtube\.com\/api\/timedtext\?(.*)subtype=(Official|External) script-path = https://raw.githubusercontent.com/ajune0527/vpn_loon/master/Resource/Script/YouTube/YouTube_Subtitles_Composite_response.js, requires-body = true, tag = YouTube字幕合成响应, argument =
+http-response ^https?:\/\/(www|m)\.youtube\.com\/api\/timedtext\?(.*)subtype=(Official|External) script-path = https://raw.githubusercontent.com/ajune0527/vpn_tool/master/Resource/Script/YouTube/YouTube_Subtitles_Composite_response.js, requires-body = true, tag = YouTube字幕合成响应, argument =
 
-http-response ^https?:\/\/(www|m)\.youtube\.com\/api\/timedtext\?(.*)subtype=Translate script-path = https://raw.githubusercontent.com/ajune0527/vpn_loon/master/Resource/Script/YouTube/YouTube_Subtitles_Translate_response.js, requires-body = true, tag = YouTube字幕翻译响应, argument =
+http-response ^https?:\/\/(www|m)\.youtube\.com\/api\/timedtext\?(.*)subtype=Translate script-path = https://raw.githubusercontent.com/ajune0527/vpn_tool/master/Resource/Script/YouTube/YouTube_Subtitles_Translate_response.js, requires-body = true, tag = YouTube字幕翻译响应, argument =
 
 [Mitm]
 hostname = www.youtube.com, m.youtube.com, tv.youtube.com, youtubei.googleapis.com, -redirector*.googlevideo.com, *.googlevideo.com

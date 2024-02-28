@@ -409,28 +409,28 @@ rule-providers:
     type: http
     behavior: classical
     path: ./RuleSet/Direct.yaml
-    url: https://raw.githubusercontent.com/ajune0527/vpn_loon/master/Tool/Clash/Rule/Direct.yaml
+    url: https://raw.githubusercontent.com/ajune0527/vpn_tool/master/Tool/Clash/Rule/Direct.yaml
     interval: 10800
 
   Proxy:
     type: http
     behavior: classical
     path: ./RuleSet/Proxy.yaml
-    url: https://raw.githubusercontent.com/ajune0527/vpn_loon/master/Tool/Clash/Rule/Proxy.yaml
+    url: https://raw.githubusercontent.com/ajune0527/vpn_tool/master/Tool/Clash/Rule/Proxy.yaml
     interval: 10800
 
   ChineseGameDownload:
     type: http
     behavior: classical
     path: ./RuleSet/ChineseGameDownload.yaml
-    url: https://raw.githubusercontent.com/ajune0527/vpn_loon/master/Tool/Clash/Rule/ChineseGameDownload.yaml
+    url: https://raw.githubusercontent.com/ajune0527/vpn_tool/master/Tool/Clash/Rule/ChineseGameDownload.yaml
     interval: 10800
 
   InternationalGameDownload:
     type: http
     behavior: classical
     path: ./RuleSet/InternationalGameDownload.yaml
-    url: https://raw.githubusercontent.com/ajune0527/vpn_loon/master/Tool/Clash/Rule/InternationalGameDownload.yaml
+    url: https://raw.githubusercontent.com/ajune0527/vpn_tool/master/Tool/Clash/Rule/InternationalGameDownload.yaml
     interval: 10800
 
   TikTok:
@@ -465,35 +465,35 @@ rule-providers:
     type: http
     behavior: classical
     path: ./RuleSet/iCloudChina.yaml
-    url: https://raw.githubusercontent.com/ajune0527/vpn_loon/master/Tool/Clash/Rule/iCloudChina.yaml
+    url: https://raw.githubusercontent.com/ajune0527/vpn_tool/master/Tool/Clash/Rule/iCloudChina.yaml
     interval: 10800
 
   ApplePushNotificationService:
     type: http
     behavior: classical
     path: ./RuleSet/AppleID.yaml
-    url: https://raw.githubusercontent.com/ajune0527/vpn_loon/master/Tool/Clash/Rule/ApplePushNotificationService.yaml
+    url: https://raw.githubusercontent.com/ajune0527/vpn_tool/master/Tool/Clash/Rule/ApplePushNotificationService.yaml
     interval: 10800
 
   AppleSoftwareUpdates:
     type: http
     behavior: classical
     path: ./RuleSet/AppleID.yaml
-    url: https://raw.githubusercontent.com/ajune0527/vpn_loon/master/Tool/Clash/Rule/AppleSoftwareUpdates.yaml
+    url: https://raw.githubusercontent.com/ajune0527/vpn_tool/master/Tool/Clash/Rule/AppleSoftwareUpdates.yaml
     interval: 10800
 
   AppleID:
     type: http
     behavior: classical
     path: ./RuleSet/AppleID.yaml
-    url: https://raw.githubusercontent.com/ajune0527/vpn_loon/master/Tool/Clash/Rule/AppleID.yaml
+    url: https://raw.githubusercontent.com/ajune0527/vpn_tool/master/Tool/Clash/Rule/AppleID.yaml
     interval: 10800
 
   AppStore:
     type: http
     behavior: classical
     path: ./RuleSet/AppStore.yaml
-    url: https://raw.githubusercontent.com/ajune0527/vpn_loon/master/Tool/Clash/Rule/AppStore.yaml
+    url: https://raw.githubusercontent.com/ajune0527/vpn_tool/master/Tool/Clash/Rule/AppStore.yaml
     interval: 10800
 
   TestFlight:
@@ -542,7 +542,7 @@ rule-providers:
     type: http
     behavior: classical
     path: ./RuleSet/ESET_Activation_Service.yaml
-    url: https://raw.githubusercontent.com/ajune0527/vpn_loon/master/Tool/Clash/Rule/ESET_Activation_Service.yaml
+    url: https://raw.githubusercontent.com/ajune0527/vpn_tool/master/Tool/Clash/Rule/ESET_Activation_Service.yaml
     interval: 10800
 
 # 分流规则
