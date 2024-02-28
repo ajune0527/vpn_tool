@@ -1,10 +1,10 @@
-#!name = TestFlight解锁
-#!desc = 解除TestFlight的区域限制
-#!openUrl = 
-#!author = NobyDa
-#!homepage = https://gitlab.com/lodepuly/vpn_tool/-/tree/master/Tool/Loon/Plugin
-#!icon = https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/TestFlight.png
-#!date = 2023-09-06 01:30:10
+#!name=TestFlight解锁
+#!desc=解除TestFlight的区域限制
+#!openUrl=
+#!author=NobyDa
+#!homepage=https://gitlab.com/lodepuly/vpn_tool/-/tree/master/Tool/Loon/Plugin
+#!icon=https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/TestFlight.png
+#!date=2023-09-06 01:30:10
 
 [General]
 skip-proxy = iosapps.itunes.apple.com

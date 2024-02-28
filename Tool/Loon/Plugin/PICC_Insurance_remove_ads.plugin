@@ -1,10 +1,10 @@
-#!name = 中国人保去广告
-#!desc = 移除中国人保开屏广告和应用内广告
-#!openUrl = 
-#!author = Sliverkiss
-#!homepage = https://gitlab.com/lodepuly/vpn_tool/-/tree/master/Tool/Loon/Plugin
-#!icon = https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/PICC_Insurance.png
-#!date = 2024-02-18 19:19:03
+#!name=中国人保去广告
+#!desc=移除中国人保开屏广告和应用内广告
+#!openUrl=
+#!author=Sliverkiss
+#!homepage=https://gitlab.com/lodepuly/vpn_tool/-/tree/master/Tool/Loon/Plugin
+#!icon=https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/PICC_Insurance.png
+#!date=2024-02-18 19:19:03
 
 [Rewrite]
 # 人保头条

@@ -1,10 +1,10 @@
-#!name = 喜马拉雅去广告
-#!desc = 过滤喜马拉雅广告
-#!openUrl = 
-#!author = 佚名
-#!homepage = https://gitlab.com/lodepuly/vpn_tool/-/tree/master/Tool/Loon/Plugin
-#!icon = https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Himalaya.png
-#!date = 2023-10-29 13:48:55
+#!name=喜马拉雅去广告
+#!desc=过滤喜马拉雅广告
+#!openUrl=
+#!author=佚名
+#!homepage=https://gitlab.com/lodepuly/vpn_tool/-/tree/master/Tool/Loon/Plugin
+#!icon=https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Himalaya.png
+#!date=2023-10-29 13:48:55
 
 [Rewrite]
 # 修复轮播广告失效

@@ -1,10 +1,10 @@
-#!name = QQ音乐去广告
-#!desc = 过滤QQ音乐广告
-#!openUrl = 
-#!author = 可莉🅥
-#!homepage = https://gitlab.com/lodepuly/vpn_tool/-/tree/master/Tool/Loon/Plugin
-#!icon = https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/QQMusic.png
-#!date = 2024-01-10 13:51:07
+#!name=QQ音乐去广告
+#!desc=过滤QQ音乐广告
+#!openUrl=
+#!author=可莉🅥
+#!homepage=https://gitlab.com/lodepuly/vpn_tool/-/tree/master/Tool/Loon/Plugin
+#!icon=https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/QQMusic.png
+#!date=2024-01-10 13:51:07
 
 [Rule]
 DOMAIN, adstats.tencentmusic.com, REJECT-DROP
