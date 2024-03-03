@@ -7,7 +7,7 @@
 #!date=2024-01-04 20:03:54
 
 [Rewrite]
-^https:\/\/raw\.githubusercontent\.com 302 https://raw.fastgit.org
+^https:\/\/raw\.githubusercontent\.com 302 https://mirror.ghproxy.com/
 
 [Mitm]
 hostname = raw.githubusercontent.com
